@@ -21,7 +21,7 @@
 - 访问 https://github.com
 - 注册/登录账号
 - 点击右上角 "+" → "New repository"
-- 仓库名：`FourGreatInventions-Website`（或任何你喜欢的名字）
+- 仓库名：`multiculturefestive-China-2025-barbieri`（或任何你喜欢的名字）
 - 选择 Public（公开）
 - 点击 "Create repository"
 
@@ -39,7 +39,7 @@ git add .
 git commit -m "Initial commit: Four Great Inventions website"
 
 # 添加GitHub远程仓库（替换YOUR_USERNAME为你的GitHub用户名）
-git remote add origin https://github.com/YOUR_USERNAME/FourGreatInventions-Website.git
+git remote add origin https://github.com/YOUR_USERNAME/multiculturefestive-China-2025-barbieri.git
 
 # 推送到GitHub
 git branch -M main
@@ -52,7 +52,7 @@ git push -u origin main
 - 在 "Source" 下选择 "Deploy from a branch"
 - Branch 选择 "main"，文件夹选择 "/ (root)"
 - 点击 "Save"
-- 等待几分钟，GitHub会给你一个网址：`https://YOUR_USERNAME.github.io/FourGreatInventions-Website/`
+- 等待几分钟，GitHub会给你一个网址：`https://YOUR_USERNAME.github.io/multiculturefestive-China-2025-barbieri/`
 
 **优点**：免费、可靠、可以自定义域名
 

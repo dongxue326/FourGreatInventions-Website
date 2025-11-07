@@ -13,7 +13,7 @@
    - 点击右上角的 **"+"** 按钮
    - 选择 **"New repository"**
    - 填写仓库信息：
-     - **Repository name**: `FourGreatInventions-Website`（或任何你喜欢的名字）
+     - **Repository name**: `multiculturefestive-China-2025-barbieri`（或任何你喜欢的名字）
      - **Description**: `中国四大发明文化节网站`（可选）
      - **选择 Public**（公开，GitHub Pages免费版需要公开仓库）
      - **不要**勾选 "Initialize this repository with a README"（我们已经有了代码）
@@ -35,9 +35,9 @@ git branch -M main
 git push -u origin main
 ```
 
-**示例**（如果你的用户名是 `dongxue326`，仓库名是 `FourGreatInventions-Website`）：
+**示例**（如果你的用户名是 `dongxue326`，仓库名是 `multiculturefestive-China-2025-barbieri`）：
 ```bash
-git remote add origin https://github.com/dongxue326/FourGreatInventions-Website.git
+git remote add origin https://github.com/dongxue326/multiculturefestive-China-2025-barbieri.git
 git branch -M main
 git push -u origin main
 ```
@@ -57,7 +57,7 @@ git push -u origin main
 4. 点击 **"Save"**（保存）
 5. 等待1-2分钟，GitHub会显示你的网站地址：
    - 格式：`https://YOUR_USERNAME.github.io/REPO_NAME/`
-   - 例如：`https://dongxue326.github.io/FourGreatInventions-Website/`
+   - 例如：`https://dongxue326.github.io/multiculturefestive-China-2025-barbieri/`
 
 ---
 

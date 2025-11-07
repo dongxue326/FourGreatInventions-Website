@@ -10,7 +10,7 @@ A multilingual static website showcasing China's Four Great Inventions (Papermak
 ## 🌐 访问网站
 
 部署到GitHub Pages后，网站地址：
-https://dongxue326.github.io/FourGreatInventions-Website/
+https://dongxue326.github.io/multiculturefestive-China-2025-barbieri/
 
 ---
 
@@ -36,7 +36,7 @@ FourGreatInventions_CulturalFestival_Website/
 
 1. **创建GitHub仓库**
    - 访问 https://github.com/new
-   - 仓库名：`FourGreatInventions-Website`
+   - 仓库名：`multiculturefestive-China-2025-barbieri`
    - 选择 Public
    - 点击 Create repository
 
@@ -44,7 +44,7 @@ FourGreatInventions_CulturalFestival_Website/
    - 运行 `deploy-to-github.bat`（Windows）
    - 或手动执行：
      ```bash
-     git remote add origin https://github.com/dongxue326/FourGreatInventions-Website.git
+     git remote add origin https://github.com/dongxue326/multiculturefestive-China-2025-barbieri.git
      git branch -M main
      git push -u origin main
      ```
@@ -55,7 +55,7 @@ FourGreatInventions_CulturalFestival_Website/
    - 保存后等待1-2分钟
 
 4. **访问网站**
-   - https://dongxue326.github.io/FourGreatInventions-Website/
+   - https://dongxue326.github.io/multiculturefestive-China-2025-barbieri/
 
 ---
 
